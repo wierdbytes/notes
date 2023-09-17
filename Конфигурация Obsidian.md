@@ -18,6 +18,7 @@ up:: [[Obsidian]]
 	- [[Плагин Supercharged Links для Obsidian|Supercharged Links]]
 	- Tasks
 	- [[Плагин Various Complements для Obsidian|Various Complements]]
+	- Obsidian Git
 - Горячие клавиши
 	- `Cmd+.` - вставляет текущую дату в формате yyyy-mm-dd
 	- `Opt+Y` - выбрать и вставить шаблон в позиции курсора
