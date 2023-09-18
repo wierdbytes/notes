@@ -1,6 +1,8 @@
 ---
 tag: app note/grow
 context: pkms
+created: 2023-05-22T00:22
+updated: 2023-09-18T22:04
 ---
 up:: [[Программы на все случаи жизни]], [[PKM]]
 

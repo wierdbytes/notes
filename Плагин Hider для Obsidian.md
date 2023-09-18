@@ -1,6 +1,8 @@
 ---
 tag: obsidian
 context: obsidian
+created: 2023-05-26T23:12
+updated: 2023-09-18T22:03
 ---
 up:: [[Obsidian]]
 

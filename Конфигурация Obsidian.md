@@ -1,5 +1,7 @@
 ---
 tag: note/grow
+created: 2023-05-22T00:32
+updated: 2023-09-18T21:31
 ---
 up:: [[Obsidian]]
 
@@ -19,6 +21,7 @@ up:: [[Obsidian]]
 	- Tasks
 	- [[Плагин Various Complements для Obsidian|Various Complements]]
 	- Obsidian Git
+	- Update time on edit
 - Горячие клавиши
 	- `Cmd+.` - вставляет текущую дату в формате yyyy-mm-dd
 	- `Opt+Y` - выбрать и вставить шаблон в позиции курсора

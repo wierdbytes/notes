@@ -1,6 +1,8 @@
 ---
 tag: obsidian
 context: pkms
+created: 2023-05-25T19:09
+updated: 2023-09-18T22:04
 ---
 up:: [[Obsidian]]
 

@@ -1,5 +1,7 @@
 ---
 tag: obsidian note/seed
+created: 2023-06-01T13:08
+updated: 2023-09-18T22:04
 ---
 up:: [[Obsidian]]
 

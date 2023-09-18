@@ -1,6 +1,8 @@
 ---
 tag: app
 context: keyboard
+created: 2023-05-26T21:57
+updated: 2023-09-18T22:05
 ---
 up:: [[Karabiner-Elements]]
 

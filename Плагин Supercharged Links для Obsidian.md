@@ -1,5 +1,7 @@
 ---
 tag: obsidian
+created: 2023-06-01T12:45
+updated: 2023-09-18T22:04
 ---
 up:: [[Obsidian]]
 
